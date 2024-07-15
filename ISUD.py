@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 # Copy function.py file in the same path with ISUD.py for access to benchmark function.
 from Functions import *
 
-print("===================================================================================================================")
+print("=====================")
 print("Farzad Zandi, 2024...")
 print("ISUD (Individuals with Substance Use Disorder): a novel metaheuristic algorithm for solving optimization problem...")
 
