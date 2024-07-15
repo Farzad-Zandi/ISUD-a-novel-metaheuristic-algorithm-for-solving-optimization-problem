@@ -12,7 +12,7 @@ print("=====================")
 print("Farzad Zandi, 2024...")
 print("ISUD (Individuals with Substance Use Disorder): a novel metaheuristic algorithm for solving optimization problem...")
 
-# Set the parameters.
+# Setting the parameters.
 lb = -5  # Lower bound.
 ub = 5 # Upper bound.
 n = 10 # Dimension.
