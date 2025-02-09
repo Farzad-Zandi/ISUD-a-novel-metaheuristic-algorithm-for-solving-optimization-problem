@@ -19,4 +19,3 @@ For further inquiries, please contact us:
 - Email: [zandi_farzad@yahoo.com](zandi_farzad@yahoo.com)
 - Email: [info@zandigroup.ir](info@zandigroup.ir)
 - LinkedIn: [Farzad Zandi](https://www.linkedin.com/in/farzad-zandi-86a37326a/)
-![Python Icon](https://www.python.org/static/community_logos/python-logo.png)
