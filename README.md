@@ -11,7 +11,7 @@ Farzad Zandi, Parvaneh Mansouri, Reza Sheibani.
 ## DOI and Links
 ## Description
 ## Usage
-Run ISUD.py
+To find the optimal values of each benchmark functions run ISUD.py.
 ## Citiation
 ## Contact
 For further inquiries, please contact us:
