@@ -35,5 +35,5 @@ For further inquiries, please contact us:
 - Email: [zandi8farzad@gmail.com](zandi8farzad@gmail.com)
 - Email: [zandi_farzad@yahoo.com](zandi_farzad@yahoo.com)
 - Email: [info@zandigroup.ir](info@zandigroup.ir)
-- Website: [Zandigroup](httos://Zandigroup.ir)
+- Website: [Zandigroup](https://Zandigroup.ir)
 - LinkedIn: [Farzad Zandi](https://www.linkedin.com/in/farzad-zandi-86a37326a/)
