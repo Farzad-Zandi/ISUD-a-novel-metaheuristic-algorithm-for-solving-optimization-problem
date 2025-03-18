@@ -10,6 +10,7 @@ Optimization, Meta-heuristic Algorithms, Swarm Intelligence.
 ## Authors
 Farzad Zandi, Parvaneh Mansouri, Reza Sheibani.
 ## DOI and Links
+https://doi.org/10.22044/jadm.2025.15175.2621
 ## Description
 ## Usage
 To find the optimal values of each benchmark function, run ISUD.py.
