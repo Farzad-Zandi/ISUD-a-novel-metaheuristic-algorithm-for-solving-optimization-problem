@@ -15,7 +15,7 @@ https://doi.org/10.22044/jadm.2025.15175.2621
 ## Usage
 To find the optimal values of each benchmark function, run ISUD.py.
 ## Citiation
-'''bibtex
+```bibtex
 @article {
 author = {Zandi, Farzad and Mansouri, Parvaneh and Sheibani, Reza},
 title = {Individuals with Substance Use Disorder: a novel metaheuristic algorithm for solving optimization problems},
@@ -26,7 +26,7 @@ pages = {-},
 year  = {2025},
 publisher = {Shahrood University of Technology}
 }
-'''
+```
 ## Contact
 For further inquiries, please contact us:
 - Farzad Zandi.
