@@ -27,8 +27,8 @@ To run the algorithm, follow the steps below:
 author = {Zandi, Farzad and Mansouri, Parvaneh and Sheibani, Reza},
 title = {Individuals with Substance Use Disorder: a novel metaheuristic algorithm for solving optimization problems},
 journal = {Journal of AI and Data Mining},
-volume = {},
-number = {},
+volume = {13},
+number = {2},
 pages = {-},
 year  = {2025},
 publisher = {Shahrood University of Technology}
