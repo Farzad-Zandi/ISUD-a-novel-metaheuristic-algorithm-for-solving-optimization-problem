@@ -12,10 +12,15 @@ Farzad Zandi, Parvaneh Mansouri, Reza Sheibani.
 ## DOI and Links
 https://doi.org/10.22044/jadm.2025.15175.2621
 ## Description
-Functions.py file is the benchmark functions.
-ISUD.py is the algorithm.
+Benchmark functions are available in `Functions.py` file.
 ## Usage
-To find the optimal values of each benchmark function, run ISUD.py.
+To run the algorithm, follow the steps below:
+
+1. Change the cost function in ISUD.py file.
+   - Run `ISUD.py` to Find the optimal values.
+     ```sh
+     ISUD.py
+     ```
 ## Citiation
 ```bibtex
 @article {
