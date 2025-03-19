@@ -1,4 +1,4 @@
-# ISUD (Individuals with Substance Use Disorder): a novel metaheuristic algorithm for solving optimization problems
+# Individuals with Substance Use Disorder: a novel metaheuristic algorithm for solving optimization problems
 ![Graphical Abstract](https://github.com/Farzad-Zandi/ISUD/blob/main/Graphical%20Abstract.png)
 ## Abstract
 <p align="justify">
