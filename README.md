@@ -10,7 +10,8 @@ Optimization, Meta-heuristic Algorithms, Swarm Intelligence.
 ## Authors
 Farzad Zandi, Parvaneh Mansouri, Reza Sheibani.
 ## DOI and Links
-https://doi.org/10.22044/jadm.2025.15175.2621
+- DOI: [https://doi.org/10.22044/jadm.2025.15175.2621](https://doi.org/10.22044/jadm.2025.15175.2621)
+- Article: [https://jad.shahroodut.ac.ir/article_3416.html](https://jad.shahroodut.ac.ir/article_3416.html)
 ## Description
 Benchmark functions are available in `Functions.py` file.
 ## Usage
