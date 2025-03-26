@@ -30,7 +30,7 @@ title = {Individuals with Substance Use Disorder: a novel metaheuristic algorith
 journal = {Journal of AI and Data Mining},
 volume = {13},
 number = {2},
-pages = {-},
+pages = {207-226},
 year  = {2025},
 publisher = {Shahrood University of Technology}
 }
